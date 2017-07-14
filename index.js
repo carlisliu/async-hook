@@ -1,3 +1,3 @@
-const asyncHook = require('async_hook');
+const asyncHooks = require('async_hooks');
 
-console.log(asyncHook);
+console.log(asyncHooks);
