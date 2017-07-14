@@ -8,4 +8,6 @@ asyncHooks.createHook({
     }
 }).enable();
 
-require('net').createServer((conn) => {}).listen(3000);
+require('net').createServer((conn) => {}).listen(3000, ()=>{
+    fs.writeSync(1, `listening`);
+});
