@@ -1,0 +1,22 @@
+{
+  "name": "async-hook",
+  "version": "1.0.0",
+  "description": "node async_hooks api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlisliu/async-hook.git"
+  },
+  "keywords": [
+    "async_hook"
+  ],
+  "author": "Carlis Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlisliu/async-hook/issues"
+  },
+  "homepage": "https://github.com/carlisliu/async-hook#readme"
+}
